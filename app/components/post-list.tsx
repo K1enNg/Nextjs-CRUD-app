@@ -13,7 +13,7 @@ const PostList = () => {
             </div>
             <div className='flex gap-2'>
                 <RemoveButton />
-                <Link href={'/editPost/123'}>
+                <Link href={'pages/edit-post/123'}>
                     <HiPencilAlt size={24}/>
                 </Link>
             </div>

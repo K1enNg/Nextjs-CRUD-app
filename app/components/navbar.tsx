@@ -7,7 +7,7 @@ const Navbar = () => {
         <Link href={"/"} className='text-white font-bold'>
             Devchronicles
         </Link>
-        <Link href={"/add-post"} className='bg-white p-2'>
+        <Link href={"pages/add-post"} className='bg-white p-2 font-bold'>
             Add Post
         </Link>
     </nav>
